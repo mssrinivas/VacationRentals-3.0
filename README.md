@@ -128,8 +128,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Front End 
 ## Install
 
-    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
-    $ cd VacationRentals-2.0/HomeAway/FrontEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-3.0.git
+    $ cd VacationRentals-3.0/HomeAway/FrontEnd
     $ npm install
 
 ## Start & watch
@@ -140,8 +140,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Back End 
 ## Install
 
-    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
-    $ cd VacationRentals-2.0/HomeAway/BackEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-3.0.git
+    $ cd VacationRentals-3.0/HomeAway/BackEnd
     $ npm install
 
 ## Start & watch
