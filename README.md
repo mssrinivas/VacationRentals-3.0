@@ -4,9 +4,9 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
 
  
 ## Technologies Used:
-  * Front End : ReactJS, HTML, CSS, Bootstrap 
-  * Back End  : NodeJS, ExpressJS
-  * Database  : MySQL
+  * Front End : ReactJS, HTML, CSS, Bootstrap
+  * Back End  : GraphQL, NodeJS, ExpressJS, JWT
+  * Database  : MongoDB
  
 
 ## Functionality 
@@ -32,7 +32,7 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
   
 ### Basic Architecture Diagram
 
-![Alt text](HomeAway/ScreenShots/Kafka_Architecture.png?raw=true "Architecture")
+![Alt text](HomeAway/ScreenShots/GraphQL_Architecture.png?raw=true "Architecture")
 
 
 ## Screenshots
@@ -128,8 +128,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Front End 
 ## Install
 
-    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
-    $ cd VacationRentals-2.0/HomeAway/FrontEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-3.0.git
+    $ cd VacationRentals-3.0/HomeAway/FrontEnd
     $ npm install
 
 ## Start & watch
@@ -140,8 +140,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Back End 
 ## Install
 
-    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
-    $ cd VacationRentals-2.0/HomeAway/BackEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-3.0.git
+    $ cd VacationRentals-3.0/HomeAway/BackEnd
     $ npm install
 
 ## Start & watch
